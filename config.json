@@ -1,0 +1,111 @@
+{
+  "sitePassword": "4/8/2007",
+  "content": {
+    "siteTitle": "لكِ أنتِ 💘",
+    "siteSubtitle": "أجمل حاجة حصلتلي",
+    "loginButton": "افتح الرسالة",
+    "heroTitle": "من أول يوم<br/>شفتك",
+    "heroDescription": "أجمل حاجة حصلتلي",
+    "heroButton": "افتح الرسالة",
+    "endingTitle": "أنتِ الحب كله",
+    "endingDescription": "كل لحظة معاكِ هدية",
+    "endingFooter": "كل اللي عندي"
+  },
+  "theme": {
+    "background": "#1c1018",
+    "backgroundSecondary": "#261820",
+    "accent": "#ffb3c1",
+    "accentSecondary": "#ff8fab",
+    "accentTertiary": "#ffd166",
+    "text": "#fff5f7",
+    "textMuted": "rgba(255,245,247,0.62)",
+    "glassBg": "rgba(255,179,193,0.08)",
+    "glassBorder": "rgba(255,179,193,0.25)",
+    "blur": 24,
+    "radius": 36,
+    "fontSize": 16,
+    "customCSS": "@import url('https://fonts.googleapis.com/css2?family=Lalezar:wght@400&family=Changa:wght@400;600&display=swap');\n:root{--font-sans:'Changa',sans-serif;--font-serif:'Lalezar',serif;}"
+  },
+  "sections": {
+    "hero": {
+      "enabled": false
+    },
+    "floatingMemories": {
+      "enabled": false
+    },
+    "marquee": {
+      "enabled": false
+    },
+    "stackCards": {
+      "enabled": false
+    },
+    "timeline": {
+      "enabled": false
+    },
+    "memoryExplosion": {
+      "enabled": false
+    },
+    "flipCards": {
+      "enabled": false
+    },
+    "loveQuotes": {
+      "enabled": false
+    },
+    "statistics": {
+      "title": "حكايتنا بالأرقام"
+    },
+    "orbitGallery": {
+      "enabled": false
+    },
+    "horizontalStory": {
+      "enabled": false
+    },
+    "parallaxLayers": {
+      "enabled": false
+    },
+    "photoWall": {
+      "enabled": false
+    },
+    "cinematicReveal": {
+      "enabled": false
+    },
+    "beforeAfter": {
+      "enabled": false
+    },
+    "floatingPolaroids": {
+      "enabled": false
+    },
+    "carousel": {
+      "enabled": false
+    },
+    "spotlight": {
+      "enabled": false
+    },
+    "bentoGrid": {
+      "enabled": false
+    },
+    "splitStory": {
+      "enabled": false
+    },
+    "stickyChapters": {
+      "enabled": false
+    },
+    "verticalMarquee": {
+      "enabled": false
+    },
+    "loveNotes": {
+      "enabled": false
+    },
+    "heartbeat": {
+      "enabled": false
+    },
+    "finalEnding": {
+      "enabled": false
+    }
+  },
+  "dashboardPassword": "love",
+  "github": {
+    "token": "",
+    "repo": "banda110/site-shahdan-8"
+  }
+}
